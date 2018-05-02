@@ -9,6 +9,17 @@ Used in a Udacity course in the Beginning Android Nanodegree.
 More info on the USGS Earthquake API available at:
 https://earthquake.usgs.gov/fdsnws/event/1/
 
+
+![screenshot_2018-05-01-17-33-08-723_com example android quakereport](https://user-images.githubusercontent.com/29420591/39503400-5c0f6dd4-4de3-11e8-8d70-b3c24e3873b8.png)
+
+![screenshot_2018-05-01-17-33-12-757_com example android quakereport](https://user-images.githubusercontent.com/29420591/39503401-5c89fa04-4de3-11e8-92d5-8ac833961ac8.png)
+
+![screenshot_2018-05-01-17-33-15-725_com example android quakereport](https://user-images.githubusercontent.com/29420591/39503402-5ccedf3e-4de3-11e8-86c9-49e55727fb68.png)
+
+![screenshot_2018-05-01-17-33-18-806_com example android quakereport](https://user-images.githubusercontent.com/29420591/39503403-5d16a274-4de3-11e8-9001-e5b7d7e38b47.png)
+
+
+
 Pre-requisites
 --------------
 
